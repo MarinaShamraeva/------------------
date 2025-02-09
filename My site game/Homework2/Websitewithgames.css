@@ -6,7 +6,6 @@ body {
 font-family: Montserrat, serif;
 background-color: #202027;
 scroll-behavior: smooth;
-
 }
 .center {
  padding-left: calc(50% - 172px);
@@ -41,7 +40,7 @@ scroll-behavior: smooth;
  pointer-events: none; 
 }
 .top__content {
-    position: relative;
+position: relative;
 }
 .top__heading {
  font-size: 40px;
@@ -152,7 +151,6 @@ text-decoration: none;
  transition-delay: 0.3s;
  transition: 0.2s;
 }
-
 .games__product-box {
  padding-top: 29.4px;
  padding-bottom: 32.67px;
